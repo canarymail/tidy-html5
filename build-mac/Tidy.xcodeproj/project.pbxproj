@@ -315,6 +315,8 @@
 		C6F61FDA1703DFC70073032E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				COMPILATION_CACHE_ENABLE_CACHING = YES;
+				COMPILATION_CACHE_CAS_PATH = "$(PROJECT_DIR)/../.compilation-cache";
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
