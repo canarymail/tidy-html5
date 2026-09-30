@@ -23,3 +23,6 @@
 *.suo
 *.sdf
 .DS_Store
+
+# Persistent Xcode compilation results.
+/.compilation-cache/
